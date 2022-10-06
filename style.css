@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tittle_div{
+    text-align: center;
+    font-size: 20px;
+}
+
+.search-box-div{
+    text-align: center;
+    margin: 30px;
+}
+
+.search-box-div input {
+    border-radius: 1px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+}
+
+.sidebar-tittle {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.sidebar-cuisines {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Italian {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Chinese {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Indian {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Arabian {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.African {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.European {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.American {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+.main-content {
+   margin-right: 120px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+
+    
+}
+
+.bullet-points {
+    width: 400px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px violet;
+    list-style: none;
+}
+
+.sidebars p{
+    margin: 0 0 10px 15px;
+}
